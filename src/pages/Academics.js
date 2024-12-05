@@ -19,7 +19,7 @@ const Academics = ({show=true}) => {
     },
     {
       image:"/images/lkg-mtcs-c.jpg",
-      heading: "Lower Kindergarden (LKG)",
+      heading: "Lower Kindergarten (LKG)",
       subheading: "9:00am - 3:45pm",
       content: 
         {
@@ -30,7 +30,7 @@ const Academics = ({show=true}) => {
     },
     {
       image:"/images/ukg-mtcs-c.jpg",
-      heading: "Upper Kindergarden(UKG)",
+      heading: "Upper Kindergarten(UKG)",
       subheading: "9:00am - 3:45pm",
       content: 
         {
@@ -242,7 +242,7 @@ const Academics = ({show=true}) => {
     <>
         {show && <BreadCrumb pagename={'Academics'} />}
 
-      <h1 className='text-5xl font-bold mb-5 mt-16'><span style={{color: '#5d50c6'}}>The</span> <span style={{color: 'orange'}}>Kindergarden</span></h1>
+      <h1 className='text-5xl font-bold mb-5 mt-16'><span style={{color: '#5d50c6'}}>The</span> <span style={{color: 'orange'}}>Kindergarten</span></h1>
         <div className='flex justify-center '>
         <p className='mb-9 w-2/3 text-center' style={{color:'rgba(0, 0, 0, 0.5)'}}>The curriculum that we offer here is a happy blend of child oriented and teacher centred methodologies, focusing on to play way method. The aim is the development of total personality of the child.The Kindergarden is a preschool educational approch based on playing ,singing,practical activities such as drawing,and social intraction as part of the transition from home to school</p>
         </div>
